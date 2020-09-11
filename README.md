@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: Hiahia
 -->
-![language](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=GeniusTintin&hide=html)
-![Tian's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=GeniusTintin&show_icons=true&count_private=true&line_height=33.7)
+![language](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=TianZhao-007&hide=html)
+![Tintin's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=GeniusTintin&show_icons=true&count_private=true&line_height=33.7)
